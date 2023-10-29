@@ -29,9 +29,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Lora&amp;display=swap"
 
       rel="stylesheet">
-    <title>Bootstrap demo</title>
+    <title>Kanitta Faypechr Resume</title>
+    <meta name="description" content="Arts, Information and Library Science">
+    <meta name="keywords" content="Resume, Kanitta, May, About me">
   </head>
-  <body class="my-back">
+  <body class="my-back"> 
     <div class="container">
       <div class="row">
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -118,7 +120,7 @@
       <br>
       <br>
       <div class="row" style="text-align: center;">
-        <h5> - 640510022 -  </h5>
+        <h5> - 640510022 - </h5>
       </div>
       <br>
       <div class="row" style="text-align: center;">
@@ -144,13 +146,13 @@
       <br>
       <br>
       <div class="row">
-        <div class="col-md-6 mx-auto text-center px-0" style="text-align: justify;">
-          <h5 style="text-align: justify;">&nbsp;&nbsp;&nbsp; I have a strong
-            passion for reading because it enhances my concentration and
-            analytical thinking skills. I am a responsible reason who dedicates
-            myself dedicated to work fully, and I am able to manage time well.
-            When it comes to working as a team, I can do my part wonderfully. In
-            addition, also have good communication and relationship skills.</h5>
+        <div class="col-md-6 px-0" style="text-align: justify;">
+          <h5>&nbsp;&nbsp;&nbsp; I have a strong passion for reading because it
+            enhances my&nbsp; concentration and analytical thinking skills. I am
+            a responsible reason who dedicates myself dedicated to work fully,
+            and I am able to manage time well. When it comes to working as a
+            team, I can do my part wonderfully. In addition, also have good
+            communication and relationship skills.</h5>
           <br>
         </div>
         <div class="col-md-1 px-0"><br>
